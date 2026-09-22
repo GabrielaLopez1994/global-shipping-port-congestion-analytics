@@ -22,6 +22,7 @@ Input: workspace.bronze.world_bank_container_traffic
 - Numeric measures converted to DOUBLE.
 - MD5 hash generated.
 - Metadata timestamp generated.
+- Historical traffic information available from multiple years
    
 6. Output Table: workspace.silver.port_traffic_clean
 
