@@ -15,3 +15,28 @@ Rules Applied
    0 duplicate values
 
 7. Generate MD5 hash.
+
+## Additional Finding
+
+The World Bank API contains:
+
+- Countries
+- Regional aggregates
+- Economic groups
+
+Examples:
+
+- Argentina
+- Australia
+- Belgium
+
+and
+
+- OECD Members
+- European Union
+- World
+
+Decision:
+
+All entities were retained in Silver.
+Filtering will be applied during Gold according to analytical requirements.
