@@ -5,8 +5,10 @@
 Convert Bronze raw data into analysis-ready data.
 
 2. Read Bronze
+   
+Input: workspace.bronze.world_bank_container_traffic
 
-3. Transformations
+4. Transformations
 
 - Data type correction
 - Null handling
