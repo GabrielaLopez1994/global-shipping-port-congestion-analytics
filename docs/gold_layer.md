@@ -18,7 +18,19 @@ Star Schema
 
 - fact_port_traffic
 
-## Output
+# Gold Layer Results
+
+## Coverage
+
+Countries: 206
+
+Historical Range:
+2005 - 2024
+
+Analytical Records:
+2748
+
+## Output Tables
 
 workspace.gold.dim_country
 
