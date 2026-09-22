@@ -3,13 +3,15 @@
 Rules Applied
 
 1. Remove rows where value is NULL.
+   2793 valid rows
 
-2. Flatten nested JSON structures.
+3. Flatten nested JSON structures.
 
-3. Convert year to INTEGER.
+4. Convert year to INTEGER.
 
-4. Convert port traffic to DOUBLE.
+5. Convert port traffic to DOUBLE.
 
-5. Validate duplicate records.
+6. Validate duplicate records
+   0 duplicate values
 
-6. Generate MD5 hash.
+7. Generate MD5 hash.
